@@ -25,11 +25,10 @@ body{
 
 #carte
 {
-    width: 1900px;
-    margin: 0 ;
+    width: 800px;
+    margin: 0 auto;
     text-align: center;
     align-content: center;
-    vertical-align: middle;
 }
 
 .bouton-noir-ovale {
